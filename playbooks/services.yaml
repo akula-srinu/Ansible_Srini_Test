@@ -1,0 +1,8 @@
+---
+- name: Services Restart Stage
+  hosts: localhost
+  tasks:
+
+    - name: Display a message
+      debug:
+        msg: "This is a setvices restarting stage"
