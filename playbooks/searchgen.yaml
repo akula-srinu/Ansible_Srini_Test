@@ -1,0 +1,8 @@
+---
+- name: Search Regen Stage
+  hosts: localhost
+  tasks:
+
+    - name: Display a message
+      debug:
+        msg: "This is a Search regen stage"
