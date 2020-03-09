@@ -3,6 +3,6 @@
   hosts: localhost
   tasks:
 
-    - name: Display the config
+    - name: Display a message
       debug:
         msg: "This is a views regen stage"
