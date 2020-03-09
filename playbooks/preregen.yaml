@@ -1,5 +1,5 @@
 ---
-- name: Network Getting Started First Playbook
+- name: Views Regen Stage
   hosts: localhost
   tasks:
 
