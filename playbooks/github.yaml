@@ -1,0 +1,8 @@
+---
+- name: Network Getting Started First Playbook
+  hosts: localhost
+  tasks:
+
+    - name: Display the config
+      debug:
+        msg: "Downloading from GitHub"
