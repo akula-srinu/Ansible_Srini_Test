@@ -5,5 +5,4 @@
 
     - name: Display the config
       debug:
-        msg: "Welcome to Ansible"
-        msg: "This is a pre-regen stage"
+        msg: "This is a views regen stage"
